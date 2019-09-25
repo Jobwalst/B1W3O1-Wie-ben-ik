@@ -1,0 +1,39 @@
+body {
+	background-image: url("../pictures/noorwegen_1.jpg - KOPIE.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+    font-family: 'Teko', sans-serif;
+    color: black;
+}
+
+#header_1 {
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	border: 2px solid black;
+	padding: 4px;
+	background-color: red;
+}
+
+ul {
+	padding: 0;
+}
+
+#header_2 {
+	text-align: center;
+}
+
+#picik {
+	float: right;
+	width: 400px; height: 200px;
+	border: dotted black 5px;
+}
+
+#programmeren_1 {
+	float: left;
+	width: 400px; height: 200px;
+	margin-right: 5px;
+	border: dotted black 5px
+}
